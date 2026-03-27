@@ -31,23 +31,6 @@
 
 </div>
 
-## 📖 Table of Contents
-
-- [About The Project](#-about-the-project)
-- [Live Demo](#-live-demo)
-- [Methodology Phases](#-methodology-phases)
-- [Topics Covered](#-topics-covered)
-- [Who Is This For](#-who-is-this-for)
-- [Getting Started](#-getting-started)
-- [Project Structure](#-project-structure)
-- [Tools Referenced](#-tools-referenced)
-- [Contributing](#-contributing)
-- [Author](#-author)
-- [Connect With Me](#-connect-with-me)
-- [License](#-license)
-
----
-
 ## 🎯 About The Project
 
 **Penetration Testing // Advanced Red Teaming Methodology** is a professional, interactive web-based reference guide covering the complete lifecycle of a penetration test — from initial reconnaissance to final reporting. Built for security professionals, bug bounty hunters, CTF players, and aspiring ethical hackers, this resource consolidates industry-standard techniques, commands, and workflows into a structured, accessible format.
@@ -173,62 +156,12 @@ This project follows the industry-standard penetration testing lifecycle:
 
 ## 🚀 Getting Started
 
-### Option 1: Use the Live Site (Recommended)
+### Use the Live Site
 Simply visit **[pentesting-methodology.netlify.app](https://pentesting-methodology.netlify.app/)** — no setup needed.
-
-### Option 2: Run Locally
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/rohit-1006/pentesting-methodology.git
-
-# 2. Navigate to the project directory
-cd pentesting-methodology
-
-# 3. Open in browser
-# Option A: Direct open
-open index.html
-
-# Option B: Using Python HTTP Server
-python3 -m http.server 8080
-# Then visit http://localhost:8080
-
-# Option C: Using VS Code Live Server extension
-# Right-click index.html → "Open with Live Server"
-```
 
 ### Prerequisites
 - Any modern web browser (Chrome, Firefox, Edge, Brave)
 - No additional dependencies required
-
----
-
-## 📁 Project Structure
-
-```
-pentesting-methodology/
-│
-├── index.html              # Main entry point
-├── README.md               # Project documentation
-│
-├── assets/
-│   ├── css/
-│   │   ├── style.css       # Main stylesheet (hacker theme)
-│   │   └── responsive.css  # Mobile responsiveness
-│   ├── js/
-│   │   └── main.js         # Navigation & interactivity
-│   └── images/
-│       └── ...             # Icons and visuals
-│
-├── sections/
-│   ├── recon.html          # Reconnaissance phase
-│   ├── scanning.html       # Scanning & enumeration
-│   ├── exploitation.html   # Exploitation techniques
-│   ├── post-exploit.html   # Post-exploitation
-│   └── reporting.html      # Report writing guide
-│
-└── LICENSE
-```
 
 ---
 
@@ -312,25 +245,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a PR.
 
 ---
 
-## 📊 Project Stats
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/rohit-1006/pentesting-methodology?style=social)
-![GitHub forks](https://img.shields.io/github/forks/rohit-1006/pentesting-methodology?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/rohit-1006/pentesting-methodology?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/rohit-1006/pentesting-methodology?style=flat-square&color=green)
-![GitHub repo size](https://img.shields.io/github/repo-size/rohit-1006/pentesting-methodology?style=flat-square)
-
-</div>
-
----
-
 ## 👨‍💻 Author
-
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/207909852?v=4" width="120" style="border-radius: 50%" alt="Rohit10"/>
 
 ### **Rohit10** (rohit-1006)
 
@@ -338,21 +253,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a PR.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rohit--1006-181717?style=for-the-badge&logo=github)](https://github.com/rohit-1006)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Rohit10-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Rohit10)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone)](https://hackerone.com)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Profile-F26822?style=for-the-badge&logo=bugcrowd)](https://bugcrowd.com)
-
-</div>
-
-### 🗂️ Other Projects by Rohit10
-
-| Project | Description | Stars |
-|---|---|---|
-| [🔧 Ultimate-Security-Tools-Installer](https://github.com/rohit-1006/Ultimate-Security-Tools-Installer) | Automated security tools installation framework | ⭐ |
-| [🏹 Bug-Bounty-Hunting-Guide](https://github.com/rohit-1006/Bug-Bounty-Hunting-Guide) | Advanced methodology, commands & techniques | ⭐ |
-| [🔭 ReconX](https://github.com/rohit-1006/ReconX) | GUI-based recon framework for bug bounty | ⭐ |
-| [🎯 SSRF-Hunter](https://github.com/rohit-1006/SSRF-Hunter) | Comprehensive SSRF detection tool | ⭐ |
-
----
 
 ## 🔗 Connect With Me
 
@@ -368,16 +268,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a PR.
 ## 📜 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 Rohit10 (rohit-1006)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
 
 ---
 
