@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-██████╗ ███████╗███╗   ██╗████████╗███████╗███████╗████████╗██╗███╗   ██╗ ██████╗ 
-██╔══██╗██╔════╝████╗  ██║╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██║████╗  ██║██╔════╝ 
-██████╔╝█████╗  ██╔██╗ ██║   ██║   █████╗  ███████╗   ██║   ██║██╔██╗ ██║██║  ███╗
-██╔═══╝ ██╔══╝  ██║╚██╗██║   ██║   ██╔══╝  ╚════██║   ██║   ██║██║╚██╗██║██║   ██║
-██║     ███████╗██║ ╚████║   ██║   ███████╗███████║   ██║   ██║██║ ╚████║╚██████╔╝
-╚═╝     ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-```
-
 # 🛡️ Advanced Red Teaming Methodology
 
 ### *A Comprehensive Penetration Testing Reference & Interactive Knowledge Base*
@@ -211,26 +202,6 @@ This methodology covers usage and commands for the following tools:
 ## 🤝 Contributing
 
 Contributions make this resource better for the entire security community. All contributions are welcome!
-
-### How to Contribute
-
-```bash
-# 1. Fork the repository
-# Click "Fork" on the top right of this page
-
-# 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/pentesting-methodology.git
-
-# 3. Create a feature branch
-git checkout -b feature/add-technique-name
-
-# 4. Make your changes & commit
-git add .
-git commit -m "feat: add [technique/tool/section] to [phase]"
-
-# 5. Push and open a Pull Request
-git push origin feature/add-technique-name
-```
 
 ### Contribution Guidelines
 
