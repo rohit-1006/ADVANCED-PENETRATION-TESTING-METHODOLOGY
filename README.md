@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Advanced Red Teaming Methodology
+# 🛡️ Advanced Penetesting Methodology
 
 ### *A Comprehensive Penetration Testing Reference & Interactive Knowledge Base*
 
